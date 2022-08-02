@@ -6,3 +6,4 @@
   <a href="https://www.zhihu.com/people/kai-le-71-9/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
   <a href="https://space.bilibili.com/506443071?spm_id_from=333.1007.0.0/"><img src="https://img.shields.io/badge/bilibili-B%E7%AB%99-ff69b4"></a>&emsp;
   <a href="https://www.youtube.com/channel/UC2UUD8d8Bj8HDYIC3pTMp5w"><img src="https://img.shields.io/badge/youtube-%E6%B2%B9%E7%AE%A1-c32136"></a>&emsp;
+  <a href="https://www.facebook.com/kai.he.75470/"><img src="https://img.shields.io/badge/facebook-%E8%84%B8%E4%B9%A6-003472"></a>&emsp;
