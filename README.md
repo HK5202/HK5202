@@ -10,4 +10,4 @@
   
   <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=HK5202" /> </div>
 
-  [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graphHK5202=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=HK5202=xcode" /> </div>
