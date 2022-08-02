@@ -10,4 +10,4 @@
   
   <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=HK5202" /> </div>
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graphHK5202e=HK5202=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graphHK5202=HK5202&theme=xcode" /> </div>
