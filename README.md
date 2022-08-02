@@ -4,5 +4,3 @@
 <!-- 各大社交平台主页 -->
 <a href="https://www.zhihu.com/people/kai-le-71-9/"><img src="https://img.shields.io/badge/zhihu-%E7%9F%A5%E4%B9%8E-blue"></a>&emsp;
 
-<!-- 贪吃蛇代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/HK5202/HK5202/contribution-snake/github-contribution-grid-snake.svg" /></div>
