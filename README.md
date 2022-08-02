@@ -10,5 +10,3 @@
 <!-- 访客数统计徽标 -->
   <img src="https://visitor-badge.glitch.me/badge?page_id=HK5202" alt="访客统计" /></div>
 
-<!-- profile-3d-contrib -->
-<div align="center" ><img src="https://cdn.jsdelivr.net/gh/HK5202/HK5202/profile-3d-contrib/profile-night-rainbow.svg" width="100%"/></div>
